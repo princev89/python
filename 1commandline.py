@@ -1,4 +1,8 @@
 import sys
-"""argument = sys.argv[1]"""
-for argument in sys.argv:
-	print(argument)
+
+print(len(sys.argv))
+"""
+for printing all arguments
+for i in sys.argv:
+    print(i)
+"""
